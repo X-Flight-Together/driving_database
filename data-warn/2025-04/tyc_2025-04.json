@@ -1,0 +1,732 @@
+[
+  {
+  "metadata": {
+    "area": "tw-tyc",
+    "version": "2025-04"
+  },
+  "data": [
+  {
+    "Number": 1,
+    "Location": "桃園區文中路與龍安路口"
+  },
+  {
+    "Number": 2,
+    "Location": "桃園區復興路83號前"
+  },
+  {
+    "Number": 3,
+    "Location": "桃園區長壽路與成功路三段路口"
+  },
+  {
+    "Number": 4,
+    "Location": "桃園區長壽路與成功路三段路口"
+  },
+  {
+    "Number": 5,
+    "Location": "桃園區成功路三段與長壽路口"
+  },
+  {
+    "Number": 6,
+    "Location": "桃園區長壽路與三民路一段路口(行人穿越道線)"
+  },
+  {
+    "Number": 7,
+    "Location": "桃園區三民路一段與成功路二段路口"
+  },
+  {
+    "Number": 8,
+    "Location": "桃園區成功路二段與三民路口"
+  },
+  {
+    "Number": 9,
+    "Location": "桃園區三民路與長壽路口"
+  },
+  {
+    "Number": 10,
+    "Location": "桃園區國際路二段與大興西路三段路口"
+  },
+  {
+    "Number": 11,
+    "Location": "桃園區復興路與民生路口"
+  },
+  {
+    "Number": 12,
+    "Location": "桃園區三民路二段與春日路口"
+  },
+  {
+    "Number": 13,
+    "Location": "桃園區中山路與上海路口"
+  },
+  {
+    "Number": 14,
+    "Location": "桃園區三民路二段與民生路口"
+  },
+  {
+    "Number": 15,
+    "Location": "桃園區春日路與民光東路口"
+  },
+  {
+    "Number": 16,
+    "Location": "桃園區三民路三段與永安路口"
+  },
+  {
+    "Number": 17,
+    "Location": "桃園區縣府路與中山路口"
+  },
+  {
+    "Number": 18,
+    "Location": "桃園區復興路與民族路口"
+  },
+  {
+    "Number": 19,
+    "Location": "桃園區復興路與中正路口"
+  },
+  {
+    "Number": 20,
+    "Location": "桃園區介壽路與三民路三段路口"
+  },
+  {
+    "Number": 21,
+    "Location": "中壢區中華路二段與中園路(忠義路)(西往東)"
+  },
+  {
+    "Number": 22,
+    "Location": "中壢區中華路二段與中園路(忠義路)(東往西)"
+  },
+  {
+    "Number": 23,
+    "Location": "中壢區中華路與自強一路口"
+  },
+  {
+    "Number": 24,
+    "Location": "中壢區延平路與中美路"
+  },
+  {
+    "Number": 25,
+    "Location": "中壢區中華路一段與成功路口"
+  },
+  {
+    "Number": 26,
+    "Location": "中壢區環中東路與普忠路口"
+  },
+  {
+    "Number": 27,
+    "Location": "中壢區中山東路、新中北路口"
+  },
+  {
+    "Number": 28,
+    "Location": "中壢區高鐵北路與青埔路"
+  },
+  {
+    "Number": 29,
+    "Location": "楊梅區楊新路與大成路口路口轉角處"
+  },
+  {
+    "Number": 30,
+    "Location": "楊梅區中山北路進國道一號上匝道口"
+  },
+  {
+    "Number": 31,
+    "Location": "楊梅區中山北路二段與裕成路口(東往西)"
+  },
+  {
+    "Number": 32,
+    "Location": "楊梅區中山北路二段與裕成路口(西往東)"
+  },
+  {
+    "Number": 33,
+    "Location": "楊梅區中山北路二段與裕成路口(南往北)"
+  },
+  {
+    "Number": 34,
+    "Location": "楊梅區中山北路二段與梅獅路一段口"
+  },
+  {
+    "Number": 35,
+    "Location": "楊梅區高鐵南路八段與民有路一段口"
+  },
+  {
+    "Number": 36,
+    "Location": "新屋區西濱路永安段與中山西路三段路口"
+  },
+  {
+    "Number": 37,
+    "Location": "新屋區高鐵南路六段與快速路六段"
+  },
+  {
+    "Number": 38,
+    "Location": "新屋區台66線與新文路口"
+  },
+  {
+    "Number": 39,
+    "Location": "新屋區文化路二段與深圳路口"
+  },
+  {
+    "Number": 40,
+    "Location": "大園區中正東路三段與青昇路(南往北)"
+  },
+  {
+    "Number": 41,
+    "Location": "大園區中正東路三段與青昇路(北往南)"
+  },
+  {
+    "Number": 42,
+    "Location": "大園區西濱路二段與民生路口"
+  },
+  {
+    "Number": 43,
+    "Location": "大園區西濱路與中央北路"
+  },
+  {
+    "Number": 44,
+    "Location": "大園區高鐵北路三段與中正東路二段口"
+  },
+  {
+    "Number": 45,
+    "Location": "觀音區濱海路(台15線)與文化路口"
+  },
+  {
+    "Number": 46,
+    "Location": "大溪區台3線、台4線與大鶯路口"
+  },
+  {
+    "Number": 47,
+    "Location": "大溪區台7乙線8.3k處"
+  },
+  {
+    "Number": 48,
+    "Location": "復興區桃118縣道52.4k處"
+  },
+  {
+    "Number": 49,
+    "Location": "平鎮區中豐路一段166號前"
+  },
+  {
+    "Number": 50,
+    "Location": "平鎮區民族路二段175至209號前路段"
+  },
+  {
+    "Number": 51,
+    "Location": "平鎮區中豐路南勢一段與中豐路一段342巷口(南往北)"
+  },
+  {
+    "Number": 52,
+    "Location": "平鎮區中豐路南勢一段2號前(北往南)"
+  },
+  {
+    "Number": 53,
+    "Location": "平鎮區中豐路與延平路一段口"
+  },
+  {
+    "Number": 54,
+    "Location": "平鎮區中豐路一段與快速路三段口"
+  },
+  {
+    "Number": 55,
+    "Location": "平鎮區中豐路南勢二段與三興路口"
+  },
+  {
+    "Number": 56,
+    "Location": "平鎮區金陵路與快速路口"
+  },
+  {
+    "Number": 57,
+    "Location": "龜山區萬壽路二段與振興路口(西往東)"
+  },
+  {
+    "Number": 58,
+    "Location": "龜山區萬壽路二段與振興路口(東往西)"
+  },
+  {
+    "Number": 59,
+    "Location": "龜山區復興一路長庚醫院前"
+  },
+  {
+    "Number": 60,
+    "Location": "龜山區中正路與萬壽路一段口"
+  },
+  {
+    "Number": 61,
+    "Location": "龜山區振興路與西勢湖路口"
+  },
+  {
+    "Number": 62,
+    "Location": "龜山區復興一路與文化二路口"
+  },
+  {
+    "Number": 63,
+    "Location": "龜山區文化一路與文青路口"
+  },
+  {
+    "Number": 64,
+    "Location": "八德區福德一路與和強路口(東往西)"
+  },
+  {
+    "Number": 65,
+    "Location": "八德區福德一路與國道2號西向匝道入口"
+  },
+  {
+    "Number": 66,
+    "Location": "八德區建德路與豐德路口"
+  },
+  {
+    "Number": 67,
+    "Location": "八德區中華路與永豐路口"
+  },
+  {
+    "Number": 68,
+    "Location": "八德區中華路與茄苳路口"
+  },
+  {
+    "Number": 69,
+    "Location": "八德區新興路與廣興路口"
+  },
+  {
+    "Number": 70,
+    "Location": "八德區長興路與崁頂路口"
+  },
+  {
+    "Number": 71,
+    "Location": "八德區建德路與長興路口"
+  },
+  {
+    "Number": 72,
+    "Location": "八德區介壽路二段與興豐路口"
+  },
+  {
+    "Number": 73,
+    "Location": "龍潭區大昌路二段與五福街口"
+  },
+  {
+    "Number": 74,
+    "Location": "蘆竹區國門陸橋下橋號誌管制處置"
+  },
+  {
+    "Number": 75,
+    "Location": "蘆竹區中正路與榮興路口"
+  },
+  {
+    "Number": 76,
+    "Location": "蘆竹區國道一號南下匝道口與新南路一段交界處"
+  },
+  {
+    "Number": 77,
+    "Location": "蘆竹區中正路與忠孝東路口(南往北)"
+  },
+  {
+    "Number": 78,
+    "Location": "蘆竹區中正路與忠孝東路口(北往南)"
+  },
+  {
+    "Number": 79,
+    "Location": "蘆竹區中正路與南山路一段路口"
+  },
+  {
+    "Number": 80,
+    "Location": "蘆竹區濱海路一段與海湖北路"
+  },
+  {
+    "Number": "1a",
+    "Location": "桃園區三民路三段與復興路口"
+  },
+  {
+    "Number": "2a",
+    "Location": "桃園區桃鶯路與大智路口"
+  },
+  {
+    "Number": "3a",
+    "Location": "桃園區三民路三段與中正路口"
+  },
+  {
+    "Number": "4a",
+    "Location": "桃園區國際路二段與文中路口"
+  },
+  {
+    "Number": "5a",
+    "Location": "桃園區春日路與大興路口"
+  },
+  {
+    "Number": "6a",
+    "Location": "桃園區大有路與三元街口"
+  },
+  {
+    "Number": "7a",
+    "Location": "桃園區永安路與慈文路口"
+  },
+  {
+    "Number": "8a",
+    "Location": "桃園區中正路與中山路口"
+  },
+  {
+    "Number": "9a",
+    "Location": "桃園區中山路與中平路口"
+  },
+  {
+    "Number": "10a",
+    "Location": "桃園區永安路與富國路口"
+  },
+  {
+    "Number": "11a",
+    "Location": "桃園區介壽路與建國路口"
+  },
+  {
+    "Number": "12a",
+    "Location": "桃園區中山路與守法路口"
+  },
+  {
+    "Number": "13a",
+    "Location": "桃園區三民路三段與建國路口"
+  },
+  {
+    "Number": "14a",
+    "Location": "桃園區經國路與南平路口"
+  },
+  {
+    "Number": "15a",
+    "Location": "桃園區復興路與民權路口"
+  },
+  {
+    "Number": "16a",
+    "Location": "桃園區中正路與新生路口"
+  },
+  {
+    "Number": "17a",
+    "Location": "桃園區民生路與慈文路口"
+  },
+  {
+    "Number": "18a",
+    "Location": "桃園區國際路一段與宏昌八街口"
+  },
+  {
+    "Number": "19a",
+    "Location": "桃園區大業路一段與民光東路口"
+  },
+  {
+    "Number": "20a",
+    "Location": "桃園區三民路一段與自強路口"
+  },
+  {
+    "Number": "21a",
+    "Location": "桃園區中正路與大同路口"
+  },
+  {
+    "Number": "22a",
+    "Location": "桃園區中正路與同德十一街口"
+  },
+  {
+    "Number": "23a",
+    "Location": "桃園區介壽路與保羅街口"
+  },
+  {
+    "Number": "24a",
+    "Location": "桃園區桃鶯路與建國路口"
+  },
+  {
+    "Number": "25a",
+    "Location": "桃園區中正路與中華路口"
+  },
+  {
+    "Number": "26a",
+    "Location": "桃園區同德五街與藝文一街口"
+  },
+  {
+    "Number": "27a",
+    "Location": "桃園區大有路與民光東路口"
+  },
+  {
+    "Number": "28a",
+    "Location": "中壢區新中北路與普忠路口"
+  },
+  {
+    "Number": "29a",
+    "Location": "中壢區延平路與環北路口"
+  },
+  {
+    "Number": "30a",
+    "Location": "中壢火車站前(和平街)"
+  },
+  {
+    "Number": "31a",
+    "Location": "中壢區高鐵南路與公園路口"
+  },
+  {
+    "Number": "32a",
+    "Location": "中壢區環中東路二段與龍岡路二段口"
+  },
+  {
+    "Number": "33a",
+    "Location": "中壢區中華路一段與興仁路一段口"
+  },
+  {
+    "Number": "34a",
+    "Location": "中壢區環中東路二段與後興路二段口"
+  },
+  {
+    "Number": "35a",
+    "Location": "中壢區環北路與新生路口"
+  },
+  {
+    "Number": "36a",
+    "Location": "中壢區中華路一段與遠東路口"
+  },
+  {
+    "Number": "37a",
+    "Location": "中壢區自強一路與自強四路口"
+  },
+  {
+    "Number": "38a",
+    "Location": "中壢區中山路與長江路口"
+  },
+  {
+    "Number": "39a",
+	"Location": "中壢區中正路與義民路口"
+  },
+  {
+    "Number": "40a",
+    "Location": "中壢區延平路與中美路"
+  },
+  {
+    "Number": "41a",
+    "Location": "中壢區中華路一段與成功路口"
+  },
+  {
+    "Number": "42a",
+    "Location": "中壢區中央西路一段與中豐路口"
+  },
+  {
+    "Number": "43a",
+    "Location": "中壢區延平路與元化路口"
+  },
+  {
+    "Number": "44a",
+    "Location": "中壢區中山路與元化路口"
+  },
+  {
+    "Number": "45a",
+    "Location": "中壢區中華路二段與育樂路口"
+  },
+  {
+    "Number": "46a",
+    "Location": "中壢區高鐵南路三段與聖德路一段"
+  },
+  {
+    "Number": "47a",
+    "Location": "中壢區高鐵南路五段與福達路一段"
+  },
+  {
+    "Number": "48a",
+    "Location": "中壢區延平路與中山路口"
+  },
+  {
+    "Number": "49a",
+    "Location": "中壢區新中北路與新中一街、新中二街口"
+  },
+  {
+    "Number": "50a",
+    "Location": "中壢區中山路與新明路口"
+  },
+  {
+    "Number": "51a",
+    "Location": "中壢區中山東路二段與日新路口"
+  },
+  {
+    "Number": "52a",
+    "Location": "中壢區中正路與民權路口"
+  },
+  {
+    "Number": "53a",
+    "Location": "中壢區興仁路二段與榮安一街口"
+  },
+  {
+    "Number": "54a",
+    "Location": "中壢區中央西路二段與明德路口"
+  },
+  {
+    "Number": "55a",
+    "Location": "平鎮區環南路三段與德育路二段口"
+  },
+  {
+    "Number": "56a",
+    "Location": "平鎮區金陵路二段與環南路三段口"
+  },
+  {
+    "Number": "57a",
+    "Location": "平鎮區環南路與復旦路口"
+  },
+  {
+    "Number": "58a",
+    "Location": "平鎮區復旦路二段與文化街口"
+  },
+  {
+    "Number": "59a",
+    "Location": "平鎮區民族路二段與文化街8巷口"
+  },
+  {
+    "Number": "60a",
+    "Location": "平鎮區平東路與華隆街口"
+  },
+  {
+    "Number": "61a",
+    "Location": "平鎮區中興路平鎮段95巷口"
+  },
+  {
+    "Number": "62a",
+    "Location": "平鎮區中豐路與延平路一段口"
+  },
+  {
+    "Number": "63a",
+    "Location": "楊梅區校前路與環南路口"
+  },
+  {
+    "Number": "64a",
+    "Location": "楊梅區永美路與福德街口"
+  },
+  {
+    "Number": "65a",
+    "Location": "楊梅區新農街與環東路口"
+  },
+  {
+    "Number": "66a",
+    "Location": "大園區高鐵北路三段與中正東路二段"
+  },
+  {
+    "Number": "67a",
+    "Location": "大園區大觀路與環區北路"
+  },
+  {
+    "Number": "68a",
+    "Location": "大園區三民路二段110號前"
+  },
+  {
+    "Number": "69a",
+    "Location": "觀音區中山路二段與環中路口"
+  },
+  {
+    "Number": "70a",
+    "Location": "觀音區中山路二段與正大路口"
+  },
+  {
+    "Number": "71a",
+    "Location": "觀音區台66線與新華路一段口"
+  },
+  {
+    "Number": "72a",
+    "Location": "大溪區員林路一段7巷口"
+  },
+  {
+    "Number": "73a",
+    "Location": "大溪區員林路二段與石園路口"
+  },
+  {
+    "Number": "74a",
+    "Location": "大溪區仁和路二段與永昌路口"
+  },
+  {
+    "Number": "75a",
+    "Location": "龜山區文化一路與文青路口"
+  },
+  {
+    "Number": "76a",
+    "Location": "龜山區萬壽路一段與龍華街口(龍興街)"
+  },
+  {
+    "Number": "77a",
+    "Location": "龜山區文化一路與文桃路口"
+  },
+  {
+    "Number": "78a",
+    "Location": "龜山區忠義路三段與龜山一路口"
+  },
+  {
+    "Number": "79a",
+    "Location": "龜山區山鶯路與興業街口"
+  },
+  {
+    "Number": "80a",
+    "Location": "龜山區中正路與萬壽路一段口"
+  },
+  {
+    "Number": "81a",
+    "Location": "龜山區忠義路一段與長壽路口"
+  },
+  {
+    "Number": "82a",
+    "Location": "龜山區山鶯路與建國東路口"
+  },
+  {
+    "Number": "83a",
+    "Location": "龜山區自強東路與自強東路175巷口"
+  },
+  {
+    "Number": 84,
+    "Location": "龜山區文明路(復興一路)與文化一路口"
+  },
+  {
+    "Number": 85,
+    "Location": "八德區中華路與裕和路口"
+  },
+  {
+    "Number": 86,
+    "Location": "八德區天祥街與國道二號橋下道路"
+  },
+  {
+    "Number": 87,
+    "Location": "龍潭區中豐路與龍平路口"
+  },
+  {
+    "Number": 88,
+    "Location": "龍潭區中興路與武漢路口"
+  },
+  {
+    "Number": 89,
+    "Location": "龍潭區中豐路與聖亭路口"
+  },
+  {
+    "Number": 90,
+    "Location": "龍潭區中豐路高平段與龍源路口"
+  },
+  {
+    "Number": 91,
+    "Location": "蘆竹區大竹路與中興路口"
+  },
+  {
+    "Number": 92,
+    "Location": "蘆竹區南崁路二段與南工路口"
+  },
+  {
+    "Number": 93,
+    "Location": "蘆竹區中正路與南山路一段路口"
+  },
+  {
+    "Number": 94,
+    "Location": "蘆竹區南山路一段與南崁路口"
+  },
+  {
+    "Number": 95,
+    "Location": "蘆竹區中正路與桃園(南華)街口"
+  },
+  {
+    "Number": 96,
+    "Location": "蘆竹區大竹路與大新路口"
+  },
+  {
+    "Number": 97,
+    "Location": "蘆竹區南青路與富華路二段口"
+  },
+  {
+    "Number": 98,
+    "Location": "蘆竹區南山路二段與長興路二段口"
+  },
+  {
+    "Number": 99,
+    "Location": "蘆竹區中正路與南竹路一段口"
+  },
+  {
+    "Number": 100,
+    "Location": "蘆竹區南青路與富國路三段口"
+  },
+  {
+    "Number": 101,
+    "Location": "中壢區高鐵北路一段5號(桃園高鐵站)"
+  }
+]
